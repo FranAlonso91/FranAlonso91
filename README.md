@@ -16,7 +16,42 @@
 
 - :computer: I regularly share good memes in [@FranAlonso4991](https://twitter.com/FranAlonso4991")
 
-- :books: I'm currently learning HTML5 y CSS3, Javascript ES6, ReactJs, PHP.
+- :books: I'm currently learning: <img
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
+  alt="HTML5"
+  title="HTML5"
+  width="40"
+  height="40"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
+  alt="CSS3"
+  title="CSS3"
+  width="40"
+  height="40"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+  alt="javascript"
+  title="javascript"
+  width="40"
+  height="40"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+  alt="react"
+  title="react"
+  width="40"
+  height="40"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+  alt="php"
+  title="php"
+  width="40"
+  height="40"
+/>
+
 
 -  :mailbox_closed: Contact me [linkedIn](https://www.linkedin.com/in/francisco-alonso-ben%C3%ADtez-67a295239/)
 
